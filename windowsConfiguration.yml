@@ -1,6 +1,6 @@
 ---
 - name: main yml
-  hosts: 192.168.9.222
+  hosts: all
   # hosts: 10.0.3.15
   # connection: local
   # become: yes
