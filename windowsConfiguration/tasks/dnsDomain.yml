@@ -18,7 +18,7 @@
 
 - name: domain state
   debug:
-    msg: "{{Test playbook}}"
+    msg: "{{Test playbook tes}}"
 
 # - win_reboot:
 #   when: domain_state.reboot_required
